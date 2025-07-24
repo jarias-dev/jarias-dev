@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jarias-dev
-- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on fun rust projects
 
 <!---
